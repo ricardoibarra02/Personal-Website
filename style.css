@@ -57,6 +57,9 @@ p{
     line-height: 60px;
     margin: 25px 0;
 }
+.col-2 p{
+    padding-right: 10px;
+}
 .btn{
     display: inline-block;
     background: red;
